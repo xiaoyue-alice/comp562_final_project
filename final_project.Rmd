@@ -1,7 +1,7 @@
 ---
 title: "H1N1 Vaccination Status Prediction"
-author: "Peiyu Li, Xiaoyue Zhang, Tongyu Zhao, Ruoting (Nora) Xia"
-date: "2022/11"
+author: "Peiyu Li (PID: 730434819), Xiaoyue Zhang (PID: 730358221), Tongyu Zhao (PID: 730366328), Ruoting (Nora) Xia (PID: 730326159)"
+date: "2022/12"
 output:
   html_document: default
   pdf_document: default
